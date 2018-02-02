@@ -1,0 +1,33 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Documentation/os_v1_stable_Settings.xml" FileDate="2018-01-19, 15:53:34" FileAge="1516373614355" FileType="3072" />
+      <File Name="Documentation/os_v1_stable_SIGNALS.txt" FileDate="2018-01-19, 15:55:42" FileAge="1516373742133" FileType="3072" />
+      <File Name="Generated_Code/PTC.h" FileDate="2018-01-19, 15:55:42" FileAge="1516373742112" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2018-01-19, 15:53:34" FileAge="1516373614254" FileType="45637" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2018-01-19, 15:53:34" FileAge="1516373614290" FileType="45637" CompNumb="4" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2018-01-19, 15:53:34" FileAge="1516373614301" FileType="8" CompNumb="4" />
+      <File Name="Sources/main.c" FileDate="2018-01-19, 15:55:42" FileAge="1516373742122" FileType="128" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2018-01-19, 15:53:34" FileAge="1516373614260" FileType="45637" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2018-01-19, 15:53:34" FileAge="1516373614307" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/PTC.c" FileDate="2018-01-19, 15:55:42" FileAge="1516373742117" FileType="45637" CompNumb="8" />
+      <File Name="Sources/Events.h" FileDate="2018-01-19, 15:53:34" FileAge="1516373614313" FileType="131328" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2018-01-19, 15:53:34" FileAge="1516373614230" FileType="45637" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2018-01-19, 15:53:34" FileAge="1516373614295" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2018-01-19, 15:53:34" FileAge="1516373614266" FileType="45637" />
+      <File Name="Sources/Events.c" FileDate="2018-01-19, 15:53:34" FileAge="1516373614317" FileType="131328" />
+      <File Name="Documentation/os_v1_stable.txt" FileDate="2018-01-19, 15:53:34" FileAge="1516373614361" FileType="3072" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2018-01-19, 15:53:34" FileAge="1516373614272" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>3</CodeGenReference>
+</CodeGenerationInfo>
